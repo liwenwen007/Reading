@@ -1,0 +1,26 @@
+background: trust and reputation mechanism
+
+Trust is defined as an agent’s belief in attributes such as reliability, honesty and competence of the trusted agent
+Reputation of an agent defines an expectation about its behavior, which is based on other agents’ observations or information about the agent’s past behavior within a specific context at a given time.
+
+
+Situation:
+1. Subjective trust is explicitly developed by each agent. Each agent is responsible for developing its own trust in other agents based on their direct interactions. 
+2. No global or public reputation exists. If agent A wants to know agent B’s reputation, it has to proactively ask other agents for their evaluations of B, then synthesize the ratings together to compute agent B’s reputation. 
+   Other agents have different trust level
+
+Process:
+1. An agent broadly builds two kinds of trust in another agent. One is the trust in another agent’s competence in providing services. The other is the trust in another agent’s reliability in providing recommendations about other agents. 
+2. Reliability includes two aspects: whether the agent is truthful in telling its information and whether the agent is trustworthy or not.
+
+Information:
+1. objective info: accuracy of the AI system
+2. subjective info: other people's attitude to the AI system
+
+
+Naïve Bayesian network：one root node and several leaf nodes
+
+
+
+paper:
+1. https://julita.usask.ca/Texte/WI2003.pdf
