@@ -1,4 +1,11 @@
+Title:
+Human-robot interaction in disease diagnosis
+
+Purpose:
+trust-based robot decision-making for natural human-robot interaction
+
 background: trust and reputation mechanism
+            multi-agent systems
 
 Trust is defined as an agent’s belief in attributes such as reliability, honesty and competence of the trusted agent
 Reputation of an agent defines an expectation about its behavior, which is based on other agents’ observations or information about the agent’s past behavior within a specific context at a given time.
@@ -16,11 +23,17 @@ Process:
 Information:
 1. objective info: accuracy of the AI system
 2. subjective info: other people's attitude to the AI system
+3. update process
 
 
 Naïve Bayesian network：one root node and several leaf nodes
 
 
 
-paper:
+references:
 1. https://julita.usask.ca/Texte/WI2003.pdf
+
+
+paper:
+Subjective probabilities can be modeled on the basis of Bayesian principle
+
